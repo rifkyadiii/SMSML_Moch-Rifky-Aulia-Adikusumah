@@ -150,20 +150,6 @@ graph LR
 - **Pandas 2.3.1**: Manipulasi data
 - **Matplotlib/Seaborn**: Visualisasi
 
-## 👨‍💻 Penulis
-
-**Moch Rifky Aulia Adikusumah**
-- **Fokus**: Optimisasi hyperparameter & MLOps
-- **Tag**: Tercatat di MLflow untuk pelacakan
-- **Metodologi**: Grid search dengan cross-validation
-
-## 🎯 Langkah Selanjutnya
-
-- [ ] Tambah metrik evaluasi lainnya (Precision, Recall, F1)
-- [ ] Implementasi pipeline deployment model  
-- [ ] A/B testing dengan algoritma berbeda
-- [ ] Workflow retraining otomatis
-
 ---
 
 > 🚀 **Siap MLOps**: Pelacakan eksperimen lengkap dan versioning model dengan integrasi DagsHub!
