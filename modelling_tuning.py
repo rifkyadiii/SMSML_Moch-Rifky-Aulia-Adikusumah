@@ -11,7 +11,7 @@ import seaborn as sns
 dagshub.init(repo_owner='rifkyadiii', repo_name='SMSML_Moch-Rifky-Aulia-Adikusumah', mlflow=True)
 
 # 2. Muat Data
-df = pd.read_csv('Membangun_model/dataset_preprocessing/Telco-Customer-Churn_preprocessing.csv')
+df = pd.read_csv('dataset_preprocessing/Telco-Customer-Churn_preprocessing.csv')
 X = df.drop('Churn', axis=1)
 y = df['Churn']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)

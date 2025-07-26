@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arch/DBS/ML%20Flow/SMSML_Moch-Rifky-Aulia-Adikusumah/mlruns/0/d90519448d7e44c1be17c5d2c79f619d/artifacts
+end_time: 1753496996293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d90519448d7e44c1be17c5d2c79f619d
+run_name: nebulous-wren-47
+run_uuid: d90519448d7e44c1be17c5d2c79f619d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753496992412
+status: 3
+tags: []
+user_id: arch

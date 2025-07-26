@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arch/DBS/ML%20Flow/SMSML_Moch-Rifky-Aulia-Adikusumah/mlruns/0/2ec82980b3fb4a22922657a1dcc271d9/artifacts
+end_time: 1753497057837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ec82980b3fb4a22922657a1dcc271d9
+run_name: monumental-hawk-492
+run_uuid: 2ec82980b3fb4a22922657a1dcc271d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753497053494
+status: 3
+tags: []
+user_id: arch
